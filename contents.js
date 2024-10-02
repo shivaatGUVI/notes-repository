@@ -101,11 +101,10 @@
     date: "12 August 2024",
     slug: "02.hardware-and-software",
   },
-
   {
     title: "Bits, bytes and binary",
     subtitle: "How data is stored in Computer systems",
     date: "11 August 2024",
     slug: "01.bits-bytes-binary",
   },
-];
+]
